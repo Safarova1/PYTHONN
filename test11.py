@@ -1,1 +1,1 @@
-print("hello guys yusif is my crush")
+print("hello guys yusif is my crush lol")
