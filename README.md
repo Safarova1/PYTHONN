@@ -2,3 +2,4 @@
 salaaam
 salam
 mojete skinut otveti?
+da
