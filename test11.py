@@ -1,1 +1,0 @@
-print("hello guys yusif my crush")
