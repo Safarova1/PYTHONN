@@ -4,3 +4,4 @@ salam
 mojete skinut otveti?
 da
 Yuksel doks
+JDU OTVETI
