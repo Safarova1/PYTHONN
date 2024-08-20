@@ -1,3 +1,3 @@
 /DROP_DATA_BASE
 salaaam
-sala,
+salam
